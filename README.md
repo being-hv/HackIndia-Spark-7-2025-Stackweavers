@@ -1,6 +1,4 @@
-Here's the improved and well-formatted version of your `README.md` file:
 
-```markdown
 # 🚀 LeetVault
 
 **LeetVault** is an innovative **AI-powered Web3 platform** designed for coders, developers, and tech enthusiasts! It combines **real-time coding challenges**, **AI-assisted answers**, and **Web3 rewards** to create an engaging and rewarding experience.
@@ -10,7 +8,7 @@ Here's the improved and well-formatted version of your `README.md` file:
 ## 🌟 Key Features
 
 - **AI-powered answers 🤖**: Get real-time assistance from AI while solving coding challenges or submitting your solutions and getting rewarded!
-- **Web3 Rewards 🎉**: Earn cryptocurrency or tokens for participating in challenges, solving problems, and voting.
+- **Web3 Rewards 🎉**: Earn cryptocurrency or tokens for participating in challenges, solving problems (& lose for asking help), and voting.
 - **Decentralized Voting System 🔗**: Secure and transparent voting for selecting top solutions using blockchain wallets.
 - **Leaderboard Ranking 🏆**: Compete with others, track your progress, and climb the ranks based on your performance.
 - **Fast Problem Solving 🔥**: Participate in time-based challenges that test your coding skills under pressure.
